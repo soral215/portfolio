@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d15d76-10ae-49d2-889e-447480dec6a2" name="Default Changelist" comment="">
+    <list default="true" id="59d15d76-10ae-49d2-889e-447480dec6a2" name="Default Changelist" comment="생성 리액트 라우터">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Pages/HistoryPage/HistoryPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -21,7 +43,7 @@
   </component>
   <component name="ProjectId" id="1wBKl0xmhkyFjt3FMbvA6zyBGuT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,16 +52,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/Component/HeadComponent" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -53,6 +93,9 @@
       <option name="presentableId" value="Default" />
       <updated>1627926688618</updated>
       <workItem from="1627926689770" duration="314000" />
+      <workItem from="1627929827610" duration="1083000" />
+      <workItem from="1627969152830" duration="224000" />
+      <workItem from="1627973237470" duration="19114000" />
     </task>
     <task id="LOCAL-00001" summary="생성 리액트 라우터">
       <created>1627928300704</created>
@@ -66,6 +109,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="생성 리액트 라우터" />

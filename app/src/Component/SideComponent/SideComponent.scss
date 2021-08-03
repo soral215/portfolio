@@ -1,0 +1,11 @@
+.side {
+  width: 10px;
+
+  ul {
+    list-style: none;
+  }
+}
+
+.side.false {
+    display: none;
+  }
