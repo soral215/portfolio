@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d15d76-10ae-49d2-889e-447480dec6a2" name="Default Changelist" comment="생성 리액트 라우터">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Pages/HistoryPage/HistoryPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.scss" afterDir="false" />
+    <list default="true" id="59d15d76-10ae-49d2-889e-447480dec6a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Component/HeadComponent/HeadComponent.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Component/SideComponent/SideComponent.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Pages/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Pages/Main/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Pages/Main/Main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2ba65abb-c534-435f-a27f-5efe336427e2" />
   </component>
   <component name="ProjectId" id="1wBKl0xmhkyFjt3FMbvA6zyBGuT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -69,17 +59,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -95,7 +74,9 @@
       <workItem from="1627926689770" duration="314000" />
       <workItem from="1627929827610" duration="1083000" />
       <workItem from="1627969152830" duration="224000" />
-      <workItem from="1627973237470" duration="19114000" />
+      <workItem from="1627973237470" duration="19206000" />
+      <workItem from="1628089767313" duration="217000" />
+      <workItem from="1628089998044" duration="3714000" />
     </task>
     <task id="LOCAL-00001" summary="생성 리액트 라우터">
       <created>1627928300704</created>
@@ -104,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627928300704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="생성 사이드바 작업 중">
+      <created>1628016475598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628016475598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,9 +108,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="생성 리액트 라우터" />
-    <option name="LAST_COMMIT_MESSAGE" value="생성 리액트 라우터" />
+    <MESSAGE value="생성 사이드바 작업 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="생성 사이드바 작업 중" />
   </component>
 </project>

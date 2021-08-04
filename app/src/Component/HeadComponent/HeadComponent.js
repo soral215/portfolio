@@ -30,11 +30,7 @@ const HeadComponent = () => {
 
   return (
     <>
-      {/*<SideComponent*/}
-      {/*  show = {show}*/}
-      {/*/>*/}
       <span className={`head`}>
-
 
       <span>
         <button className={"menu-btn"}
@@ -53,6 +49,10 @@ const HeadComponent = () => {
       </span>
 
     </span>
+      <SideComponent
+        show = {show}
+        isShow = {isShow}
+      />
     </>
   );
 };

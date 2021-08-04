@@ -8,14 +8,12 @@ import SideComponent from "./Component/SideComponent/SideComponent";
 function App() {
   return (
     <Router>
-      <div>
-        <SideComponent/>
         <HeadComponent/>
+        {/*<SideComponent/>*/}
         <Switch>
           <Route exact path="/" component={Main} />
           <Route exact path="/history" component={HistoryPage} />
         </Switch>
-      </div>
     </Router>
   );
 }

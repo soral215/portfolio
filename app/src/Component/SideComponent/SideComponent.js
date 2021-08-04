@@ -1,8 +1,11 @@
-import React, { useEffect } from "react";
+import React, {useEffect, useState} from "react";
 import { useHistory } from "react-router-dom"
 import './SideComponent.scss'
 
-const SideComponent = ({ show }) => {
+const SideComponent = ({ show, isShow }) => {
+
+  // const [show, isShow] = useState(show);
+
 
   const sideMenu =[
     {
@@ -13,9 +16,18 @@ const SideComponent = ({ show }) => {
       name: 'portfolio',
       path: '/portfolio'
     },
+    {
+      name: 'portfolio',
+      path: '/portfolio'
+    },
   ]
 
   const history = useHistory()
+
+  const onClickSidTab = (tab) => {
+    history.push(`${tab}`)
+    isShow(!show)
+  }
 
   return (
     <span className={`side ${show}`}>
@@ -23,7 +35,7 @@ const SideComponent = ({ show }) => {
         {
           sideMenu.map(tab => (
             <li className={tab.name}
-                onClick={() => history.push(`${tab.path}`)}
+                onClick={() => onClickSidTab(tab.path)}
             >
               {tab.name}
             </li>

@@ -1,5 +1,9 @@
 .side {
-  width: 10px;
+  height: 100%;
+  width: 30%;
+  position: absolute;
+  z-index: 2;
+  background-color: antiquewhite;
 
   ul {
     list-style: none;
